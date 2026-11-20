@@ -1,8 +1,8 @@
 name="Ilaha"
-age="22"
+age=22
 city="Baku"
-languale="Phyton"
-field="AI_engineer"
+language="Python"
+field="AI engineer"
 
 print(name)
 print(age)
